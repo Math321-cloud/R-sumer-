@@ -671,4 +671,20 @@ into proprietary programs.  If your program is a subroutine library, you
 may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
-<https://www.gnu.org/licenses/why-not-lgpl.html>.
+<https://www.gnu.org/licenses/why-not-lgpl.html>.## 📄 Licence
+
+Ce projet est publié sous la licence **Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International (CC BY-NC-SA 4.0)**.
+
+Cela signifie que vous êtes libre de :
+
+- **Partager** : copier, distribuer et communiquer le contenu au public,
+- **Adapter** : modifier, transformer et créer à partir de ce contenu,
+
+Sous réserve des conditions suivantes :
+
+- **Attribution** : vous devez créditer l’auteur original de manière appropriée,
+- **Pas d’Utilisation Commerciale** : vous ne pouvez pas utiliser ce contenu à des fins commerciales,
+- **Partage dans les Mêmes Conditions** : si vous modifiez ou transformez le contenu, vous devez le distribuer sous la même licence.
+
+Pour plus de détails, consultez le texte complet de la licence ici :  
+[https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
