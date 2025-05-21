@@ -26,7 +26,104 @@ render.experimental.xml
 *.jks
 *.keystore
 
-# Google Services (e.g. APIs or Firebase)
+# Google Services (e.g. APIs or Firebase)# -------------------------------------------------
+# SYSTEME
+# -------------------------------------------------
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
+
+# Fichiers de swap et temporaires (édité par vim, emacs, etc.)
+*~
+*.swp
+*.swo
+*.tmp
+
+# Fichiers logs
+*.log
+
+# -------------------------------------------------
+# ENVIRONNEMENT DE DEVELOPPEMENT
+# -------------------------------------------------
+
+# VSCode
+.vscode/
+.history/
+
+# JetBrains (WebStorm, PhpStorm, IntelliJ)
+.idea/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Mac/Linux
+*.bak
+*.orig
+
+# -------------------------------------------------
+# NODE.JS ET CONSTRUCTION (si build CSS/JS)
+# -------------------------------------------------
+
+node_modules/
+dist/
+build/
+.cache/
+.tmp/
+.nyc_output/
+
+# Outils spécifiques (Webpack, Vite, etc.)
+coverage/
+*.tsbuildinfo
+
+# Tailwind CSS / PostCSS
+tailwind.config.js
+postcss.config.js
+
+# -------------------------------------------------
+# GESTION DU DEPLOIEMENT
+# -------------------------------------------------
+
+# Netlify
+.netlify/
+netlify.toml
+
+# GitHub Pages
+gh-pages/
+
+# -------------------------------------------------
+# ENVIRONNEMENT LOCAL / VARIABLES SENSIBLES
+# -------------------------------------------------
+
+.env
+.env.local
+.env.*.local
+.env.production
+
+# -------------------------------------------------
+# AUTRES FICHIERS UTILES À EXCLURE
+# -------------------------------------------------
+
+# Archives / sauvegardes manuelles
+*.zip
+*.tar
+*.gz
+*.rar
+
+# Fichiers de test ou de démonstration
+test/
+tests/
+demo/
+__tests__/
+
+# Screenshots ou fichiers médias de prévisualisation
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
 google-services.json
 
 # Android Profiling
